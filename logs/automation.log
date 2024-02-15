@@ -1,0 +1,39 @@
+10:52:59.774 [main] INFO  testCases.TC_001_HomePage - Verifing New Bike
+10:53:07.371 [main] INFO  testCases.TC_001_HomePage - Verifying New Bike successful.
+10:53:07.708 [main] INFO  testCases.TC_001_HomePage - Verifing Upcoming Bike
+10:53:27.173 [main] INFO  testCases.TC_001_HomePage - Verifing Upcoming Bike successful
+10:53:27.174 [main] INFO  testCases.TC_001_HomePage - **** Finished TC_002_UpcomingBike ****
+10:53:27.537 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_003_UsedCar ****
+10:53:27.537 [main] INFO  testCases.TC_001_HomePage - Verifying usedCar bike
+10:53:44.018 [main] INFO  testCases.TC_001_HomePage - Used Car Verification successful
+10:53:44.026 [main] INFO  testCases.TC_001_HomePage - **** Finished TC_003_UsedCar ****
+10:53:44.414 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_004_LoginSignup ****
+10:53:44.415 [main] INFO  testCases.TC_001_HomePage - Verifying login/SignUp
+10:53:48.441 [main] INFO  testCases.TC_001_HomePage - Verifying Login/SignUp Page successful
+10:53:48.808 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_005_LoginPage ****
+10:53:48.808 [main] INFO  testCases.TC_001_HomePage - Verifying loginPage
+10:53:59.263 [main] INFO  testCases.TC_001_HomePage - Verifying Login Page successful.
+10:53:59.264 [main] INFO  testCases.TC_001_HomePage - **** Finished TC_004_LoginSignup ****
+11:03:33.827 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_001_HomePage ****
+11:03:33.836 [main] INFO  testCases.TC_001_HomePage - Getting the title.
+11:03:33.920 [main] INFO  testCases.TC_001_HomePage - Validating the title.
+11:03:35.086 [main] INFO  testCases.TC_001_HomePage - Title Validation successful.
+11:03:35.087 [main] INFO  testCases.TC_001_HomePage - Verify Title successful.
+11:03:35.087 [main] INFO  testCases.TC_001_HomePage - **** Finished TC_001_HomePage ****
+11:03:36.111 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_002_UpcomingBike ****
+11:03:36.112 [main] INFO  testCases.TC_001_HomePage - Verifing New Bike
+11:03:45.368 [main] INFO  testCases.TC_001_HomePage - Verifying New Bike successful.
+11:03:45.727 [main] INFO  testCases.TC_001_HomePage - Verifing Upcoming Bike
+11:04:04.701 [main] INFO  testCases.TC_001_HomePage - Verifing Upcoming Bike successful
+11:04:04.701 [main] INFO  testCases.TC_001_HomePage - **** Finished TC_002_UpcomingBike ****
+11:04:05.049 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_003_UsedCar ****
+11:04:05.049 [main] INFO  testCases.TC_001_HomePage - Verifying usedCar bike
+11:04:23.082 [main] INFO  testCases.TC_001_HomePage - Used Car Verification successful
+11:04:23.082 [main] INFO  testCases.TC_001_HomePage - **** Finished TC_003_UsedCar ****
+11:04:23.429 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_004_LoginSignup ****
+11:04:23.429 [main] INFO  testCases.TC_001_HomePage - Verifying login/SignUp
+11:04:27.713 [main] INFO  testCases.TC_001_HomePage - Verifying Login/SignUp Page successful
+11:04:28.084 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_005_LoginPage ****
+11:04:28.085 [main] INFO  testCases.TC_001_HomePage - Verifying loginPage
+11:04:41.890 [main] INFO  testCases.TC_001_HomePage - Verifying Login Page successful.
+11:04:41.891 [main] INFO  testCases.TC_001_HomePage - **** Finished TC_004_LoginSignup ****

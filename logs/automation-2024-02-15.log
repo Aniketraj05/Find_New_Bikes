@@ -1,0 +1,58 @@
+09:25:25.386 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_001_HomePage ****
+09:25:25.396 [main] INFO  testCases.TC_001_HomePage - Getting the title of zigwheels
+09:25:25.455 [main] INFO  testCases.TC_001_HomePage - Validating the title of zigwheels
+09:25:26.393 [main] INFO  testCases.TC_001_HomePage - **** Finished TC_001_HomePage ****
+09:25:27.300 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_002_UpcomingBike ****
+09:25:27.300 [main] INFO  testCases.TC_001_HomePage - Verifing New Bike
+09:25:33.431 [main] INFO  testCases.TC_001_HomePage - Verifing Upcoming Bike
+09:25:54.067 [main] INFO  testCases.TC_001_HomePage - **** Finished TC_002_UpcomingBike ****
+09:25:54.441 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_003_UsedCar ****
+09:25:54.441 [main] INFO  testCases.TC_001_HomePage - Verifying usedCar bike
+09:26:11.897 [main] INFO  testCases.TC_001_HomePage - **** Finished TC_003_UsedCar ****
+09:26:12.197 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_004_LoginSignup ****
+09:26:12.198 [main] INFO  testCases.TC_001_HomePage - Verifying login/SignUp
+09:26:16.519 [main] INFO  testCases.TC_001_HomePage - **** Finished TC_004_LoginSignup ****
+09:26:16.946 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_005_LoginPage ****
+09:26:16.947 [main] INFO  testCases.TC_001_HomePage - Verifying loginPage
+09:26:24.692 [main] INFO  testCases.TC_001_HomePage - **** Finished TC_005_LoginPage ****
+09:42:18.986 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_001_HomePage ****
+09:42:18.995 [main] INFO  testCases.TC_001_HomePage - Getting the title of zigwheels
+09:42:19.040 [main] INFO  testCases.TC_001_HomePage - Validating the title of zigwheels
+09:42:20.593 [main] INFO  testCases.TC_001_HomePage - **** Finished TC_001_HomePage ****
+09:42:21.308 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_002_UpcomingBike ****
+09:42:21.308 [main] INFO  testCases.TC_001_HomePage - Verifing New Bike
+09:42:29.398 [main] INFO  testCases.TC_001_HomePage - Verifing Upcoming Bike
+09:42:47.206 [main] INFO  testCases.TC_001_HomePage - **** Finished TC_002_UpcomingBike ****
+09:42:47.517 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_003_UsedCar ****
+09:42:47.517 [main] INFO  testCases.TC_001_HomePage - Verifying usedCar bike
+09:43:03.122 [main] INFO  testCases.TC_001_HomePage - **** Finished TC_003_UsedCar ****
+09:43:03.512 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_004_LoginSignup ****
+09:43:03.512 [main] INFO  testCases.TC_001_HomePage - Verifying login/SignUp
+09:43:07.080 [main] INFO  testCases.TC_001_HomePage - **** Finished TC_004_LoginSignup ****
+09:43:07.462 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_005_LoginPage ****
+09:43:07.462 [main] INFO  testCases.TC_001_HomePage - Verifying loginPage
+09:43:15.144 [main] INFO  testCases.TC_001_HomePage - **** Finished TC_005_LoginPage ****
+10:09:36.206 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_001_HomePage ****
+10:09:36.213 [main] INFO  testCases.TC_001_HomePage - Getting the title of zigwheels
+10:09:36.279 [main] INFO  testCases.TC_001_HomePage - Validating the title of zigwheels
+10:09:37.431 [main] INFO  testCases.TC_001_HomePage - **** Finished TC_001_HomePage ****
+10:09:38.162 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_002_UpcomingBike ****
+10:09:38.162 [main] INFO  testCases.TC_001_HomePage - Verifing New Bike
+10:09:46.210 [main] INFO  testCases.TC_001_HomePage - Verifing Upcoming Bike
+10:10:04.176 [main] INFO  testCases.TC_001_HomePage - **** Finished TC_002_UpcomingBike ****
+10:10:04.488 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_003_UsedCar ****
+10:10:04.488 [main] INFO  testCases.TC_001_HomePage - Verifying usedCar bike
+10:10:20.424 [main] INFO  testCases.TC_001_HomePage - **** Finished TC_003_UsedCar ****
+10:10:20.780 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_004_LoginSignup ****
+10:10:20.780 [main] INFO  testCases.TC_001_HomePage - Verifying login/SignUp
+10:10:24.417 [main] INFO  testCases.TC_001_HomePage - **** Finished TC_004_LoginSignup ****
+10:10:24.887 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_005_LoginPage ****
+10:10:24.887 [main] INFO  testCases.TC_001_HomePage - Verifying loginPage
+10:10:35.187 [main] INFO  testCases.TC_001_HomePage - **** Finished TC_005_LoginPage ****
+10:52:58.118 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_001_HomePage ****
+10:52:58.126 [main] INFO  testCases.TC_001_HomePage - Getting the title.
+10:52:58.172 [main] INFO  testCases.TC_001_HomePage - Validating the title.
+10:52:59.046 [main] INFO  testCases.TC_001_HomePage - Title Validation successful.
+10:52:59.047 [main] INFO  testCases.TC_001_HomePage - Verify Title successful.
+10:52:59.047 [main] INFO  testCases.TC_001_HomePage - **** Finished TC_001_HomePage ****
+10:52:59.773 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_002_UpcomingBike ****
